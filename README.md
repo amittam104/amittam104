@@ -1,14 +1,15 @@
-# Hello, There! 👋
+### Hi there, I'm Amit! 👋
 
-I'm Amit, a coding enthusiast on a journey to explore the world of programming. 🚀
+I'm a passionate front-end developer, on a journey to create beautiful and interactive web experiences. 🌐
 
-🌱 Currently, I'm diving into the exciting realm of Python, where I've just started my coding adventure.
+Currently, I'm immersed in the world of front-end development, with a focus on: HTML, CSS, JavaScript along with React
 
-📚 I'm a firm believer in continuous learning, and I'm looking forward to expanding my knowledge by delving into front-end web development later in the future after done with Python.
-(I have some projects in my mind that I want to build)
+🐍 Although my journey began with Python, where I honed my problem-solving skills and built some small projects (including a web scraper), my current focus is squarely on front-end technologies. Python will always hold a special place in my heart as my first programming language. ❤️
 
-📫 You can reach out to me here on GitHub, and we can explore the world of coding together.
+💡 One of my noteworthy project in Python was creating a web scraper. This real-world project helped me solve the problem of job searching and keeping track of opportunities by scraping job listings from websites and storing them in Google Sheets.
 
-🌟 Let's connect, collaborate, and code our way to new horizons! 🚀
+🚀 I'm always eager to learn and collaborate on exciting projects. Let's connect, share knowledge, and code together to explore new horizons in web development!
 
-Happy coding! 🤓
+📫 Feel free to reach out to me here on GitHub. Let's embark on this coding journey together!
+
+Happy coding! 🚀

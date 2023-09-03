@@ -1,6 +1,6 @@
 ### Hi there, I'm Amit! 👋
 
-I'm a passionate front-end developer, on a journey to create beautiful and interactive web experiences. 🌐
+I'm an aspiring front-end developer with a focus on crafting visually appealing and interactive web experiences. 🌐
 
 Currently, I'm immersed in the world of front-end development, with a focus on: HTML, CSS, JavaScript along with React
 

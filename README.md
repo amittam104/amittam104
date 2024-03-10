@@ -32,6 +32,12 @@ Currently, I'm immersed in the world of front-end development, with a focus on: 
 <div align="left">
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" alt="firebase logo"  />
+    <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" alt="firebase logo"  />
+    <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40" alt="firebase logo"  />
+    <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="firebase logo"  />
 </div>
 
 ###

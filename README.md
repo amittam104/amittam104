@@ -71,8 +71,6 @@ Currently, I'm immersed in the world of front-end development, with a focus on: 
 
 ###
 
-<div align="center">
-  (https://streak-stats.demolab.com?user=amittam104&theme=prussian&hide_border=true)](https://git.io/streak-stats)
-</div>
+(https://streak-stats.demolab.com?user=amittam104&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
 ###

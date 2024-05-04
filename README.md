@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">A frontend developer focused on building products that people can use.</h3>
+#  Amit Tambulkar
 
+**`A frontend developer focused on building products that people can use.`**
 
-<p align="left"> <a href="https://twitter.com/attambulkar" target="blank"><img src="https://img.shields.io/twitter/follow/attambulkar?logo=twitter&style=for-the-badge" alt="attambulkar" /></a> </p>
+I'm an frontend web developer who is focused on building realworld application which people can use. Although my programming journey began with Python, where I worked on my problem-solving skills and built some  projects (a web scraper), my current focus is completly on front-end Development. Recently I have started building full stack projects while using Backend as a service.
 
 - 🔭 I’m currently working on [Forkify](https://github.com/amittam104/Forkify)
 
 - 👨‍💻 All of my projects are available at [https://github.com/amittam104](https://github.com/amittam104)
 
 - 📫 How to reach me **amittambulkar104@gmail.com**
+
+#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

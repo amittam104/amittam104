@@ -2,7 +2,7 @@
 
 **`A frontend developer focused on building products that people can use.`**
 
-I'm an frontend web developer who is focused on building realworld application which people can use. Although my programming journey began with Python, where I worked on my problem-solving skills and built some  projects (a web scraper), my current focus is completly on front-end Development. Recently I have started building full stack projects while using Backend as a service.
+I’m a frontend web developer focused on building real-world applications that people can use. Although my programming journey began with Python, where I worked on my problem-solving skills and built some projects (including a web scraper), my current focus is entirely on front-end development. Recently, I’ve started building full-stack projects while using backend-as-a-service solutions.
 
 - 🔭 I’m currently working on [Forkify](https://github.com/amittam104/Forkify)
 

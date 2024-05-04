@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A frontend developer focused on building products that people can use.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amittam104&label=Profile%20views&color=0e75b6&style=flat" alt="amittam104" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amittam104" alt="amittam104" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/attambulkar" target="blank"><img src="https://img.shields.io/twitter/follow/attambulkar?logo=twitter&style=for-the-badge" alt="attambulkar" /></a> </p>
 

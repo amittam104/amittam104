@@ -2,6 +2,7 @@
 
 **`A frontend developer focused on building products that people can use.`**
 
+<img src="https://gist.githubusercontent.com/amittam104/22fbaefe661d0bd493ea8bd191a14348/raw/4ef445b9853236c999c1e4a420dabde153445f7d/test-bento-SVG.svg" src="test" />
 
 I’m a frontend web developer focused on building real-world applications that people can use. Although my programming journey began with Python, where I worked on my problem-solving skills and built some projects (including a web scraper), my current focus is entirely on front-end development. Recently, I’ve started building full-stack projects while using backend-as-a-service solutions.
 

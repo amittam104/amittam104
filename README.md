@@ -1,3 +1,5 @@
+<img src="https://gist.githubusercontent.com/amittam104/22fbaefe661d0bd493ea8bd191a14348/raw/326cccf35f48ebdb181ae223eb7bcd0d7a0afeb9/test-bento-SVG.svg" />
+
 #  Amit Tambulkar
 
 **`A frontend developer focused on building products that people can use.`**

@@ -1,7 +1,5 @@
 <a href="https://www.amittambulkar.com" target="_blank"><img src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/669ba3d3000d629bb97b/preview?project=667d35ca0017fb21fc6c" /></a>
 
-[![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/669c9202002afb837558/preview?project=667d35ca0017fb21fc6c)](https://www.amittambulkar.com)
-
 I’m a frontend web developer focused on building real-world applications that people can use. Although my programming journey began with Python, where I worked on my problem-solving skills and built some projects (including a web scraper), my current focus is entirely on front-end development. Recently, I’ve started building full-stack projects while using backend-as-a-service solutions.
 
 - 🔭 I’m currently working on [Forkify](https://github.com/amittam104/Forkify)

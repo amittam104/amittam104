@@ -1,6 +1,8 @@
 <a href="https://www.amittambulkar.com" target="_blank"><img src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/669ba3d3000d629bb97b/preview?project=667d35ca0017fb21fc6c" /></a>
 [![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/669ca74100335d4c2931/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/)
 
+[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/Amit Tambulkar?style=flat)](https://peerlist.io/https://peerlist.io/amittambulkar)
+
 I’m a frontend web developer focused on building real-world applications that people can use. Although my programming journey began with Python, where I worked on my problem-solving skills and built some projects (including a web scraper), my current focus is entirely on front-end development. Recently, I’ve started building full-stack projects while using backend-as-a-service solutions.
 
 - 🔭 I’m currently working on [Forkify](https://github.com/amittam104/Forkify)

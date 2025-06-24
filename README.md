@@ -3,10 +3,6 @@
 
 I’m a frontend web developer focused on building real-world applications that people can use. Although my programming journey began with Python, where I worked on my problem-solving skills and built some projects (including a web scraper), my current focus is entirely on front-end development. Recently, I’ve started building full-stack projects while using backend-as-a-service solutions.
 
-- 🔭 I’m currently working on [Shitposting.fun](https://github.com/amittam104/shitpostingis.fun)
-
-- 👨‍💻 All of my projects are available at [https://github.com/amittam104](https://github.com/amittam104)
-
 - 📫 How to reach me here or on <a href="https://twitter.com/attambulkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="attambulkar" height="30" width="40" /></a>
 
 #
